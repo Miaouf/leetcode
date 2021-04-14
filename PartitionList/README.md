@@ -1,32 +1,28 @@
 # [Partition List](https://leetcode.com/explore/challenge/card/april-leetcoding-challenge-2021/594/week-2-april-8th-april-14th/3707/)
+<p>Given the <code>head</code> of a linked list and a value <code>x</code>, partition it such that all nodes <strong>less than</strong> <code>x</code> come before nodes <strong>greater than or equal</strong> to <code>x</code>.</p>
 
-Given the ``head`` of a linked list and a value ``x``, partition it such that all nodes **less than** ``x`` come before nodes **greater than or equal** to ``x``.
+<p>You should <strong>preserve</strong> the original relative order of the nodes in each of the two partitions.</p>
 
-You should **preserve** the original relative order of the nodes in each of the two partitions.
+<p>&nbsp;</p>
+<p><strong>Example 1:</strong></p>
+<img alt="" src="https://assets.leetcode.com/uploads/2021/01/04/partition.jpg" style="width: 662px; height: 222px;">
+<pre><strong>Input:</strong> head = [1,4,3,2,5,2], x = 3
+<strong>Output:</strong> [1,2,2,4,3,5]
+</pre>
 
-#### Example 1:
-<p align="left">
-  <img width="700" src=img/partition.jpg>
-</p>
+<p><strong>Example 2:</strong></p>
 
-```
-Input: head = [1,4,3,2,5,2], x = 3
-Output: [1,2,2,4,3,5]
-```
+<pre><strong>Input:</strong> head = [2,1], x = 2
+<strong>Output:</strong> [1,2]
+</pre>
 
-#### Example 2:
+<p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
 
-```
-Input: head = [2,1], x = 2
-Output: [1,2]
-```
-
-#### Constraints:
-
-- The number of nodes in the list is in the range ``[0, 200]``.
-- ``-100 <= Node.val <= 100``
-- ``-200 <= x <= 200``
+<ul>
+	<li>The number of nodes in the list is in the range <code>[0, 200]</code>.</li>
+	<li><code>-100 &lt;= Node.val &lt;= 100</code></li>
+	<li><code>-200 &lt;= x &lt;= 200</code></li>
+</ul>
 
 #### Solutions:
-- C : [solution.c](solution.c)
-- Python3 : [solution.py](solution.py)
