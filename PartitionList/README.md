@@ -5,7 +5,7 @@ Given the ``head`` of a linked list and a value ``x``, partition it such that al
 You should **preserve** the original relative order of the nodes in each of the two partitions.
 
 #### Example 1:
-<p align="center">
+<p align="left">
   <img width="700" src=img/partition.jpg>
 </p>
 
