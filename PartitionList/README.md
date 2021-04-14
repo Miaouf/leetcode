@@ -25,4 +25,7 @@
 	<li><code>-200 &lt;= x &lt;= 200</code></li>
 </ul>
 
+
 #### Solutions:
+- [ ] **C :** [solution.c](solution.c)
+- [ ] **Python3 :** [solution.py](solution.py)
