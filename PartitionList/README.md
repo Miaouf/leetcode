@@ -6,7 +6,7 @@ You should **preserve** the original relative order of the nodes in each of the 
 
 #### Example 1:
 <p align="center">
-  <img width="700" src=partition.jpg>
+  <img width="700" src=img/partition.jpg>
 </p>
 
 ```
