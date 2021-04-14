@@ -31,4 +31,4 @@ Explanation: The first three characters "app" match, and the second string is sh
 
 #### Solutions:
 - C : [solution.c](solution.c)
-- Python3 : [solution.py](solution.py)
+
