@@ -6,7 +6,7 @@
  * };
  */
 
-
+ 
 struct ListNode* partition(struct ListNode* head, int x){
     if (head == NULL || head->next == NULL) return head;
     struct ListNode* headless = NULL;
