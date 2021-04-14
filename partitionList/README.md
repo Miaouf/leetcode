@@ -5,6 +5,9 @@ Given the ``head`` of a linked list and a value ``x``, partition it such that al
 You should **preserve** the original relative order of the nodes in each of the two partitions.
 
 #### Example 1:
+<p align="center">
+  <img width="700" src=partition.jpg>
+</p>
 
 ```
 Input: head = [1,4,3,2,5,2], x = 3
