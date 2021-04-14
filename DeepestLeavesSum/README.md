@@ -1,27 +1,24 @@
 # [Deepest Leaves Sum](https://leetcode.com/explore/challenge/card/april-leetcoding-challenge-2021/594/week-2-april-8th-april-14th/3704/)
-Given the ``root`` of a binary tree, return *the sum of values of its deepest leaves*.
+Given the <code>root</code> of a binary tree, return <em>the sum of values of its deepest leaves</em>.
+<p>&nbsp;</p>
+<p><strong>Example 1:</strong></p>
+<img alt="" src="https://assets.leetcode.com/uploads/2019/07/31/1483_ex1.png" style="width: 273px; height: 265px;">
+<pre><strong>Input:</strong> root = [1,2,3,4,5,null,6,7,null,null,null,null,8]
+<strong>Output:</strong> 15
+</pre>
 
-#### Example 1:
-<p align="left">
-  <img width="250" src=img/1483_ex1.png>
-</p>
+<p><strong>Example 2:</strong></p>
 
-```
-Input: root = [1,2,3,4,5,null,6,7,null,null,null,null,8]
-Output: 15
-Example 2:
-```
+<pre><strong>Input:</strong> root = [6,7,8,2,7,1,3,9,null,1,4,null,null,null,5]
+<strong>Output:</strong> 19
+</pre>
 
-#### Example 2:
-```
-Input: root = [6,7,8,2,7,1,3,9,null,1,4,null,null,null,5]
-Output: 19
-```
+<p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
 
-#### Constraints:
-- The number of nodes in the tree is in the range ``[1, 104]``.
-- ``1 <= Node.val <= 100``
+<ul>
+	<li>The number of nodes in the tree is in the range <code>[1, 10<sup>4</sup>]</code>.</li>
+	<li><code>1 &lt;= Node.val &lt;= 100</code></li>
+</ul>
 
 #### Solutions:
-- C : [solution.c](solution.c)
-- Python3 : [solution.py](solution.py)
