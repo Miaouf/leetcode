@@ -45,7 +45,7 @@ class NestedIterator:
     def hasNext(self) -> bool:
         return self._i < self._n
          
-
+        
 # Your NestedIterator object will be instantiated and called as such:
 # i, v = NestedIterator(nestedList), []
 # while i.hasNext(): v.append(i.next())
