@@ -23,5 +23,5 @@ Given the <code>root</code> of a binary tree, return <em>the sum of values of it
 
 
 #### Solutions:
-- [ ] **C :** [solution.c](solution.c)
-- [ ] **Python3 :** [solution.py](solution.py)
+- [x] **C :** [solution.c](solution.c)
+- [x] **Python3 :** [solution.py](solution.py)
