@@ -21,4 +21,6 @@ Given the <code>root</code> of a binary tree, return <em>the sum of values of it
 	<li><code>1 &lt;= Node.val &lt;= 100</code></li>
 </ul>
 
-#### Solutions:
+
+#### Solutions:- [ ] **C :** [solution.c](solution.c)
+                 - [ ] **Python3 :** [solution.py](solution.py)
