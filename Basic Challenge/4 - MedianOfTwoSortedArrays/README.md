@@ -51,4 +51,4 @@ Given two sorted arrays <code>nums1</code> and <code>nums2</code> of size <code>
 
 #### Solutions:
 - [ ] **C :** [solution.c](solution.c)
-- [ ] **Python3 :** [solution.py](solution.py)
+- [x] **Python3 :** [solution.py](solution.py)
