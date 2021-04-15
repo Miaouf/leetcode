@@ -37,4 +37,4 @@ Given a string <code>s</code>, return&nbsp;<em>the longest palindromic substring
 
 #### Solutions:
 - [ ] **C :** [solution.c](solution.c)
-- [ ] **Python3 :** [solution.py](solution.py)
+- [x] **Python3 :** [solution.py](solution.py)
