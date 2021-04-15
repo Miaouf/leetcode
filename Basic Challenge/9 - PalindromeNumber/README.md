@@ -42,4 +42,4 @@ Given an integer <code>x</code>, return <code>true</code> if <code>x</code> is p
 
 #### Solutions:
 - [ ] **C :** [solution.c](solution.c)
-- [ ] **Python3 :** [solution.py](solution.py)
+- [x] **Python3 :** [solution.py](solution.py)
