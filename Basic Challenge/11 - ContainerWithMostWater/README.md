@@ -41,4 +41,4 @@ Given <code>n</code> non-negative integers <code>a<sub>1</sub>, a<sub>2</sub>, .
 
 #### Solutions:
 - [ ] **C :** [solution.c](solution.c)
-- [ ] **Python3 :** [solution.py](solution.py)
+- [x] **Python3 :** [solution.py](solution.py)
