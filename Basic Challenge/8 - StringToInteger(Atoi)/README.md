@@ -106,4 +106,4 @@ Since -91283472332 is less than the lower bound of the range [-2<sup>31</sup>, 2
 
 #### Solutions:
 - [ ] **C :** [solution.c](solution.c)
-- [ ] **Python3 :** [solution.py](solution.py)
+- [x] **Python3 :** [solution.py](solution.py)
