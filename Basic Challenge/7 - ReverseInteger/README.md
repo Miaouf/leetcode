@@ -26,5 +26,5 @@ Given a signed 32-bit integer <code>x</code>, return <code>x</code><em> with its
 
 
 #### Solutions:
-- [ ] **C :** [solution.c](solution.c)
+- [x] **C :** [solution.c](solution.c)
 - [x] **Python3 :** [solution.py](solution.py)
