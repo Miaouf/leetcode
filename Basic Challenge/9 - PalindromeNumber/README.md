@@ -41,5 +41,5 @@ Given an integer <code>x</code>, return <code>true</code> if <code>x</code> is p
 <strong>Follow up:</strong> Could you solve it without converting the integer to a string?
 
 #### Solutions:
-- [ ] **C :** [solution.c](solution.c)
+- [x] **C :** [solution.c](solution.c)
 - [x] **Python3 :** [solution.py](solution.py)
