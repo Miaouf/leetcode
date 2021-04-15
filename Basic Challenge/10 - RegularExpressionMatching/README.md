@@ -57,4 +57,4 @@ Given an input string (<code>s</code>) and a pattern (<code>p</code>), implement
 
 #### Solutions:
 - [ ] **C :** [solution.c](solution.c)
-- [ ] **Python3 :** [solution.py](solution.py)
+- [x] **Python3 :** [solution.py](solution.py)
