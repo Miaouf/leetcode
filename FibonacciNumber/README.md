@@ -39,4 +39,4 @@ F(n) = F(n - 1) + F(n - 2), for n &gt; 1.
 
 #### Solutions:
 - [ ] **C :** [solution.c](solution.c)
-- [ ] **Python3 :** [solution.py](solution.py)
+- [x] **Python3 :** [solution.py](solution.py)
