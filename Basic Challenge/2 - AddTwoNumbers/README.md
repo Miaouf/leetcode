@@ -35,4 +35,4 @@ You are given two <strong>non-empty</strong> linked lists representing two non-n
 
 #### Solutions:
 - [ ] **C :** [solution.c](solution.c)
-- [ ] **Python3 :** [solution.py](solution.py)
+- [x] **Python3 :** [solution.py](solution.py)
