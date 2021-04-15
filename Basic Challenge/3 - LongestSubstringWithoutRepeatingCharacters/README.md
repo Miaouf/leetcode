@@ -41,4 +41,4 @@ Notice that the answer must be a substring, "pwke" is a subsequence and not a su
 
 #### Solutions:
 - [ ] **C :** [solution.c](solution.c)
-- [ ] **Python3 :** [solution.py](solution.py)
+- [x] **Python3 :** [solution.py](solution.py)
