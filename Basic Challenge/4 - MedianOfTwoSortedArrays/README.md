@@ -50,5 +50,5 @@ Given two sorted arrays <code>nums1</code> and <code>nums2</code> of size <code>
 <strong>Follow up:</strong> The overall run time complexity should be <code>O(log (m+n))</code>.
 
 #### Solutions:
-- [ ] **C :** [solution.c](solution.c)
+- [x] **C :** [solution.c](solution.c)
 - [x] **Python3 :** [solution.py](solution.py)
