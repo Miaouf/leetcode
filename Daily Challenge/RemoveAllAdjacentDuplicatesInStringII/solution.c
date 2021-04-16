@@ -10,7 +10,6 @@ bool parseAndRemove(char *s, int k, int* len) {
     bool res = false;
     int i,j;
     for(i = 0; i < (*len - k + 1); i++) {
-        j = 1;
         for(j = 1; (j < *len) && (j < k); j++) {
             if (s[i+j] != s[i]) break;
         }
