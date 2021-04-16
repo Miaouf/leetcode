@@ -24,8 +24,6 @@ bool parseAndRemove(char *s, int k, int* len) {
 }
 
 char * removeDuplicates(char * s, int k){
-    if (k == 0) return s;
-    if (k == 1) return '\0';
     int len = strlen(s);
     while(parseAndRemove(s,k,&len));
     return s;
