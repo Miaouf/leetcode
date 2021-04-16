@@ -1,21 +1,20 @@
 class Solution:
     def k_adjacent(self, s,k):
-        count = 0
-        previous = ""
-        i_prev = None
+        count = 1
+        i_prev = 0
         n = len(s)
-        if(n<k): 
-            return False, 0
         
-        for i in range(n):
+        if(n<k): return False, 0
+        
+        for i in range(1,n):
             if(count == k):
                 return True, i_prev
-            if(s[i] == previous):
+            if(s[i] == s[i_prev]):
                 count+=1
             else:
-                previous = s[i]
                 count = 1
                 i_prev = i
+                
         return (count == k), i_prev
     
     def removeDuplicates(self, s: str, k: int) -> str:
