@@ -21,7 +21,6 @@ int* preorder(struct Node* root, int* returnSize) {
     int ind = 0;
     
     struct Node* queue[1000];
-    
     queue[0] = root;
     int ind_q = 1;
     
@@ -50,6 +49,5 @@ int* preorder(struct Node* root, int* returnSize) {
     }
     
     *returnSize = ind;
-    
     return L;  
 }
