@@ -34,5 +34,5 @@
 
 
 #### Solutions:
-- [x] **C :** [solution.c](solution.c)
+- [ ] **C :** [solution.c](solution.c)
 - [x] **Python3 :** [solution.py](solution.py)
