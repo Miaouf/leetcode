@@ -36,5 +36,5 @@ The minimum path sum from top to bottom is 2 + 3 + 5 + 1 = 11 (underlined above)
 <strong>Follow up:</strong> Could you&nbsp;do this using only <code>O(n)</code> extra space, where <code>n</code> is the total number of rows in the triangle?
 
 #### Solutions:
-- [ ] **C :** [solution.c](solution.c)
-- [ ] **Python3 :** [solution.py](solution.py)
+- [x] **C :** [solution.c](solution.c)
+- [x] **Python3 :** [solution.py](solution.py)
