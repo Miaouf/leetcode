@@ -6,7 +6,7 @@
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
 
-<p><img src="./20_files/narytreeexample.png" style="width: 100%; max-width: 300px;"></p>
+<p><img src="https://assets.leetcode.com/uploads/2018/10/12/narytreeexample.png" style="width: 100%; max-width: 300px;"></p>
 
 <pre><strong>Input:</strong> root = [1,null,3,2,4,null,5,6]
 <strong>Output:</strong> [1,3,5,6,2,4]
@@ -14,7 +14,7 @@
 
 <p><strong>Example 2:</strong></p>
 
-<p><img alt="" src="./20_files/sample_4_964.png" style="width: 296px; height: 241px;"></p>
+<p><img alt="" src="https://assets.leetcode.com/uploads/2019/11/08/sample_4_964.png" style="width: 296px; height: 241px;"></p>
 
 <pre><strong>Input:</strong> root = [1,null,2,3,4,5,null,null,6,7,null,8,null,9,10,null,null,11,null,12,null,13,null,null,14]
 <strong>Output:</strong> [1,2,3,6,7,11,14,4,8,12,5,9,13,10]
@@ -34,5 +34,5 @@
 
 
 #### Solutions:
-- [ ] **C :** [solution.c](solution.c)
-- [ ] **Python3 :** [solution.py](solution.py)
+- [x] **C :** [solution.c](solution.c)
+- [x] **Python3 :** [solution.py](solution.py)
