@@ -21,7 +21,7 @@
 <b>Output:</b> 2
 
 <b>Explanation:</b> 
-<img src="./22_files/brick_wall.png" style="width: 100%; max-width: 350px">
+<img src="https://assets.leetcode.com/uploads/2018/10/12/brick_wall.png" style="width: 100%; max-width: 350px">
 </pre>
 
 <p>&nbsp;</p>
@@ -36,4 +36,4 @@
 
 #### Solutions:
 - [ ] **C :** [solution.c](solution.c)
-- [ ] **Python3 :** [solution.py](solution.py)
+- [x] **Python3 :** [solution.py](solution.py)
