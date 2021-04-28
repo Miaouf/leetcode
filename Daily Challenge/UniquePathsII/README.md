@@ -9,7 +9,7 @@
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
-<img alt="" src="./28_files/robot1.jpg" style="width: 242px; height: 242px;">
+<img alt="" src="https://assets.leetcode.com/uploads/2020/11/04/robot1.jpg" style="width: 242px; height: 242px;">
 <pre><strong>Input:</strong> obstacleGrid = [[0,0,0],[0,1,0],[0,0,0]]
 <strong>Output:</strong> 2
 <strong>Explanation:</strong> There is one obstacle in the middle of the 3x3 grid above.
@@ -19,7 +19,7 @@ There are two ways to reach the bottom-right corner:
 </pre>
 
 <p><strong>Example 2:</strong></p>
-<img alt="" src="./28_files/robot2.jpg" style="width: 162px; height: 162px;">
+<img alt="" src="https://assets.leetcode.com/uploads/2020/11/04/robot2.jpg" style="width: 162px; height: 162px;">
 <pre><strong>Input:</strong> obstacleGrid = [[0,1],[0,0]]
 <strong>Output:</strong> 1
 </pre>
@@ -37,4 +37,4 @@ There are two ways to reach the bottom-right corner:
 
 #### Solutions:
 - [ ] **C :** [solution.c](solution.c)
-- [ ] **Python3 :** [solution.py](solution.py)
+- [x] **Python3 :** [solution.py](solution.py)
