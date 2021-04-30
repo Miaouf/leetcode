@@ -26,5 +26,5 @@ Given <code>n</code> non-negative integers representing an elevation map where t
 
 
 #### Solutions:
-- [ ] **C :** [solution.c](solution.c)
-- [ ] **Python3 :** [solution.py](solution.py)
+- [x] **C :** [solution.c](solution.c)
+- [x] **Python3 :** [solution.py](solution.py)
