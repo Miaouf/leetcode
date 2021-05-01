@@ -9,8 +9,10 @@ class WordFilter:
                 for j in range(min(10,n)):
                     self._dic[(words[k][:1+i],words[k][j:])] = k
         
-
     def f(self, prefix: str, suffix: str) -> int:
+        if((prefix,suffix) not in self._dic):
+            return -1
+        
         return self._dic[(prefix,suffix)]
         
 
