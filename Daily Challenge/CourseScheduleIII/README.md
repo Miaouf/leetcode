@@ -41,4 +41,4 @@ The 4<sup>th</sup> course cannot be taken now, since you will finish it on the 3
 
 #### Solutions:
 - [ ] **C :** [solution.c](solution.c)
-- [ ] **Python3 :** [solution.py](solution.py)
+- [x] **Python3 :** [solution.py](solution.py)
