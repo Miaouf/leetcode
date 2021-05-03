@@ -31,5 +31,5 @@
 </ul>
 
 #### Solutions:
-- [ ] **C :** [solution.c](solution.c)
+- [x] **C :** [solution.c](solution.c)
 - [x] **Python3 :** [solution.py](solution.py)
