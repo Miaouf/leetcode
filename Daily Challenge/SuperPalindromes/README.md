@@ -32,4 +32,4 @@ Note that 676 is not a superpalindrome: 26 * 26 = 676, but 26 is not a palindrom
 
 #### Solutions:
 - [ ] **C :** [solution.c](solution.c)
-- [ ] **Python3 :** [solution.py](solution.py)
+- [x] **Python3 :** [solution.py](solution.py)
