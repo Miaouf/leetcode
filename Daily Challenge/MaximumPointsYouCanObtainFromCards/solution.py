@@ -5,7 +5,7 @@ class Solution:
         start = k
         end = 0
         
-        for i in range(k):
+        for _ in range(k):
             start -= 1
             end -= 1
             score += (cardPoints[end] - cardPoints[start])
