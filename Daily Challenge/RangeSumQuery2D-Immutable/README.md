@@ -14,7 +14,7 @@
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
-<img alt="" src="./12_files/sum-grid.jpg" style="width: 415px; height: 415px;">
+<img alt="" src="https://assets.leetcode.com/uploads/2021/03/14/sum-grid.jpg" style="width: 415px; height: 415px;">
 <pre><strong>Input</strong>
 ["NumMatrix", "sumRegion", "sumRegion", "sumRegion"]
 [[[[3, 0, 1, 4, 2], [5, 6, 3, 2, 1], [1, 2, 0, 1, 5], [4, 1, 0, 1, 7], [1, 0, 3, 0, 5]]], [2, 1, 4, 3], [1, 1, 2, 2], [1, 2, 2, 4]]
@@ -43,5 +43,5 @@ numMatrix.sumRegion(1, 2, 2, 4); // return 12 (i.e sum of the blue rectangle)
 
 
 #### Solutions:
-- [ ] **C :** [solution.c](solution.c)
-- [ ] **Python3 :** [solution.py](solution.py)
+- [x] **C :** [solution.c](solution.c)
+- [x] **Python3 :** [solution.py](solution.py)
