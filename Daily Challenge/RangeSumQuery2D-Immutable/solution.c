@@ -6,16 +6,12 @@ typedef struct {
 NumMatrix* numMatrixCreate(int** matrix, int matrixSize, int* matrixColSize) {
     
     NumMatrix* mat = malloc(sizeof(NumMatrix));
-    int **myMatrix = (int **)malloc(matrixSize * sizeof(int*));
 
-    for(int i = 0; i < matrixSize; i++)
-        myMatrix[i] = (int *)malloc(matrixColSize[i] * sizeof(int));
+    mat->M = matrix;
     
-    mat->M = myMatrix;
-    
-    for(int i = 0; i < matrixSize; i++)
+    for(int i = 1; i < matrixSize; i++)
        for(int j = 0; j < matrixColSize[0]; j++)
-           mat->M[i][j] = matrix[i][j] + (i>0?mat->M[i-1][j]:0);
+           mat->M[i][j] += mat->M[i-1][j];
 
         
     for(int i = 0; i < matrixSize; i++)
@@ -31,7 +27,6 @@ int numMatrixSumRegion(NumMatrix* obj, int row1, int col1, int row2, int col2) {
 }
 
 void numMatrixFree(NumMatrix* obj) {
-    free(obj->M);
     free(obj);
 }
 
