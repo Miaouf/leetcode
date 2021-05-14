@@ -8,7 +8,7 @@
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
-<img alt="" src="./14_files/flaten.jpg" style="width: 500px; height: 226px;">
+<img alt="" src="https://assets.leetcode.com/uploads/2021/01/14/flaten.jpg" style="width: 500px; height: 226px;">
 <pre><strong>Input:</strong> root = [1,2,5,3,4,null,6]
 <strong>Output:</strong> [1,null,2,null,3,null,4,null,5,null,6]
 </pre>
@@ -37,5 +37,5 @@
 <strong>Follow up:</strong> Can you flatten the tree in-place (with <code>O(1)</code> extra space)?
 
 #### Solutions:
-- [ ] **C :** [solution.c](solution.c)
-- [ ] **Python3 :** [solution.py](solution.py)
+- [x] **C :** [solution.c](solution.c)
+- [x] **Python3 :** [solution.py](solution.py)
