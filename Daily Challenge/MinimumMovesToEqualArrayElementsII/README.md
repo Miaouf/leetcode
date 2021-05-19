@@ -31,4 +31,4 @@ Only two moves are needed (remember each move increments or decrements one eleme
 
 #### Solutions:
 - [ ] **C :** [solution.c](solution.c)
-- [ ] **Python3 :** [solution.py](solution.py)
+- [x] **Python3 :** [solution.py](solution.py)
