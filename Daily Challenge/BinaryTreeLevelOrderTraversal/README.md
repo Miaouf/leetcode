@@ -3,7 +3,7 @@
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
-<img alt="" src="./20_files/tree1.jpg" style="width: 277px; height: 302px;">
+<img alt="" src="https://assets.leetcode.com/uploads/2021/02/19/tree1.jpg" style="width: 277px; height: 302px;">
 <pre><strong>Input:</strong> root = [3,9,20,null,null,15,7]
 <strong>Output:</strong> [[3],[9,20],[15,7]]
 </pre>
