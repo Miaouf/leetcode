@@ -7,7 +7,7 @@
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
-<img alt="" src="./22_files/queens.jpg" style="width: 600px; height: 268px;">
+<img alt="" src="https://assets.leetcode.com/uploads/2020/11/13/queens.jpg" style="width: 600px; height: 268px;">
 <pre><strong>Input:</strong> n = 4
 <strong>Output:</strong> [[".Q..","...Q","Q...","..Q."],["..Q.","Q...","...Q",".Q.."]]
 <strong>Explanation:</strong> There exist two distinct solutions to the 4-queens puzzle as shown above
@@ -29,4 +29,4 @@
 
 #### Solutions:
 - [ ] **C :** [solution.c](solution.c)
-- [ ] **Python3 :** [solution.py](solution.py)
+- [x] **Python3 :** [solution.py](solution.py)
