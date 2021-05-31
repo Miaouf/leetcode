@@ -52,4 +52,4 @@ After typing mou, mous and mouse the system suggests ["mouse","mousepad"]
 
 #### Solutions:
 - [ ] **C :** [solution.c](solution.c)
-- [ ] **Python3 :** [solution.py](solution.py)
+- [x] **Python3 :** [solution.py](solution.py)
