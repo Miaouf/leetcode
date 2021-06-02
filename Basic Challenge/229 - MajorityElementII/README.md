@@ -33,4 +33,4 @@ Given an integer array of size <code>n</code>, find all elements that appear mor
 
 #### Solutions:
 - [ ] **C :** [solution.c](solution.c)
-- [ ] **Python3 :** [solution.py](solution.py)
+- [x] **Python3 :** [solution.py](solution.py)
