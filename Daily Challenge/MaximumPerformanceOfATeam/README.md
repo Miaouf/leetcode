@@ -44,4 +44,4 @@ We have the maximum performance of the team by selecting engineer 2 (with speed=
 
 #### Solutions:
 - [ ] **C :** [solution.c](solution.c)
-- [ ] **Python3 :** [solution.py](solution.py)
+- [x] **Python3 :** [solution.py](solution.py)
