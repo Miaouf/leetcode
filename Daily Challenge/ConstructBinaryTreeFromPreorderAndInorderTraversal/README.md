@@ -3,7 +3,7 @@
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
-<img alt="" src="./8_files/tree.jpg" style="width: 277px; height: 302px;">
+<img alt="" src="https://assets.leetcode.com/uploads/2021/02/19/tree.jpg" style="width: 277px; height: 302px;">
 <pre><strong>Input:</strong> preorder = [3,9,20,15,7], inorder = [9,3,15,20,7]
 <strong>Output:</strong> [3,9,20,null,null,15,7]
 </pre>
@@ -30,4 +30,4 @@
 
 #### Solutions:
 - [ ] **C :** [solution.c](solution.c)
-- [ ] **Python3 :** [solution.py](solution.py)
+- [x] **Python3 :** [solution.py](solution.py)
