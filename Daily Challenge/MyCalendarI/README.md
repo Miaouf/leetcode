@@ -33,4 +33,4 @@ The third event can be booked, as the first event takes every time less than 20,
 
 #### Solutions:
 - [ ] **C :** [solution.c](solution.c)
-- [ ] **Python3 :** [solution.py](solution.py)
+- [x] **Python3 :** [solution.py](solution.py)
