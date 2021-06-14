@@ -41,4 +41,4 @@ The total number of units will be = (1 * 3) + (2 * 2) + (1 * 1) = 8.
 
 #### Solutions:
 - [ ] **C :** [solution.c](solution.c)
-- [ ] **Python3 :** [solution.py](solution.py)
+- [x] **Python3 :** [solution.py](solution.py)
